@@ -1,0 +1,149 @@
+body{
+  color: #40514E;
+margin:0;
+text-align: center;
+font-family: 'Merriweather', serif;
+}
+
+h1{
+color:#66BFBF;
+  margin:50px auto 0 auto;
+  font-family: 'Sacramento', cursive;
+  font-size: 4.625rem;
+
+}
+
+h2{
+  font-family: 'Montserrat', sans-serif;
+  font-size: 2rem;
+  color: #66BFBF;
+  padding-bottom: 10px;
+}
+
+h3{
+  font-family: 'Montserrat', sans-serif;
+  color: #11999E;
+}
+P{
+  line-height:2;
+}
+
+hr{
+  border: dotted 8px;
+  width: 6%;
+  border-bottom: none;
+  color:#EAF6F6;
+  margin: 100px auto;
+
+}
+a{
+  margin:20px 30px;
+  color:#11999e;
+  text-decoration: none;
+}
+a:hover{
+  color: #EAf6f6;
+}
+
+.copyright{
+  font-size: 0.7rem;
+  color: #EAF6F6;
+  padding-top: 30px;
+}
+.ppkp{
+  width:25%;
+  margin: auto;
+}
+
+.footer-link{
+  color:#11999E;
+}
+.top-container{
+  background-color: #E4F9F5;
+  position: relative;
+  padding-top:100px;
+}
+
+.skill-row{
+  text-align: left;
+  margin: 100px auto 100px auto;
+  width:50%;
+}
+
+.coding{
+  width:20%;
+  float: left;
+  margin-right:30px;
+}
+.coding-text{
+}
+.beer-text{
+}
+.beer{
+  width:20%;
+  float:right;
+  margin-left: 30px;
+}
+.beerch{
+  padding: 30px 0 0 0;
+}
+.DW{
+  padding: 10px 0 0 0;
+}
+
+.middle-container{
+  margin: 100px auto;
+
+}
+
+
+.bottom-container{
+  background-color: #66BFBF;
+  padding: 50px 0;
+
+}
+
+.contactme{
+  padding: 50px;
+  width: 35%;
+  margin: auto;
+}
+
+.btn {
+  background: #11cdd4;
+  background-image: -webkit-linear-gradient(top, #11cdd4, #11999e);
+  background-image: -moz-linear-gradient(top, #11cdd4, #11999e);
+  background-image: -ms-linear-gradient(top, #11cdd4, #11999e);
+  background-image: -o-linear-gradient(top, #11cdd4, #11999e);
+  background-image: linear-gradient(to bottom, #11cdd4, #11999e);
+  -webkit-border-radius: 9;
+  -moz-border-radius: 9;
+  border-radius: 9px;
+  font-family: 'Montserrat', sans-serif;
+  color: #ffffff;
+  font-size: 20px;
+  padding: 10px 20px 10px 20px;
+  text-decoration: none;
+}
+
+.btn:hover {
+  background: #30e3cb;
+  background-image: -webkit-linear-gradient(top, #30e3cb, #2bc4ad);
+  background-image: -moz-linear-gradient(top, #30e3cb, #2bc4ad);
+  background-image: -ms-linear-gradient(top, #30e3cb, #2bc4ad);
+  background-image: -o-linear-gradient(top, #30e3cb, #2bc4ad);
+  background-image: linear-gradient(to bottom, #30e3cb, #2bc4ad);
+  text-decoration: none;
+}
+
+.bottom-cloud{
+position:absolute;
+left: 300px;
+bottom: 350px;
+}
+
+.top-cloud{
+  position:absolute;
+  right: 300px;
+  top: 50px;
+}
